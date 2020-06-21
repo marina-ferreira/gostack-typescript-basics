@@ -1,17 +1,10 @@
 # GoStack 12
 ## Week 1 - TypeScript Fundamentals
 
-**TypeScript Express Projects API**
+**TypeScript Express API**
 
-Create, show, list, edit and delete projects.
-
-```
-GET /repositories
-GET /repositories/:id
-POST /repositories
-PUT /repositories/:repository_id
-DELETE /repositories/:repository_id
-```
+* TypeScript config
+* Basic types
 
 Dependencies:
 
